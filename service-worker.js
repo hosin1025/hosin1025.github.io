@@ -4,7 +4,7 @@ const FILES_TO_CACHE = [
     "/favicon.ico",
     "/main.js",
     "/style.css",
-    "/logo/logo-152.png",
+    "/icon/icon-152.png",
 ];
 
 self.addEventListener("install", (event) => {
